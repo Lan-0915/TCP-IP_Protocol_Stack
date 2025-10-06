@@ -2,7 +2,7 @@
 
 Approximately 10,000 + lines of code build a small and highly portable TCP/IP protocol stack.
 
-Protocol support
+Protocol support:
 
 · Ethernet Protocol: Supports the sending and receiving of Ethernet data packets and the processing of data packets.
 
